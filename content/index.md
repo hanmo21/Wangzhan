@@ -7,9 +7,7 @@ series:
   - Themes Guide
 ---
 
-# banner:
-#   caption: 周涵茉
-#   href: https://zhouhanmo.com
+
 
 {{< figure src="20200108-1.jpg" caption="发筷子 2020-01-08" >}}
 
