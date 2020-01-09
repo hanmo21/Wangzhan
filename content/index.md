@@ -9,7 +9,7 @@ series:
 
 
 
-{{< figure src="20200108-1.jpg" caption="自己动手 2020-01-08" >}}
+{{< figure src="20200108-1.jpg" caption="准备开吃 2020-01-08" >}}
 
 {{< figure src="20200108-2.jpg" caption="给奶奶过生日 2020-01-08" >}}
 
@@ -63,11 +63,11 @@ series:
 
 {{< figure src="20190708.jpg" caption="红孩儿 2019-07-08" >}}
 
-{{< figure src="20190705.jpg" caption="哈哈哈 2019-07-05" >}}
+{{< figure src="20190705.jpg" caption="开心 2019-07-05" >}}
 
 {{< figure src="20190701.jpg" caption="好吃 2019-07-01" >}}
 
-{{< figure src="20190620.jpg" caption="听妈妈的话 2019-06-20" >}}
+{{< figure src="20190620.jpg" caption="听话的姑娘 2019-06-20" >}}
 
 {{< figure src="20190604.jpg" caption="开车 2019-06-04" >}}
 
@@ -75,7 +75,7 @@ series:
 
 {{< figure src="20190523.jpg" caption="技术高超 2019-05-23" >}}
 
-{{< figure src="20190424.jpg" caption="会享受的娃 2019-04-24" >}}
+{{< figure src="20190424.jpg" caption="吃饱喝足 2019-04-24" >}}
 
 {{< figure src="20190406.jpg" caption="漂亮帽子 2019-04-06" >}}
 
@@ -88,8 +88,6 @@ series:
 {{< figure src="20190306-2.jpg" caption="捉迷藏 2019-03-06" >}}
 
 {{< figure src="20190306-1.jpg" caption="白里透红 2019-03-06" >}}
-
-{{< figure src="20190130.jpg" caption="吃火锅 2019-01-30" >}}
 
 {{< figure src="20190119.jpg" caption="给奶奶过生日 2019-01-19" >}}
 
