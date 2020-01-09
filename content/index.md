@@ -1,7 +1,7 @@
 ---
 author: 周涵茉
-title: 茉茉
-subtitle: 祝您身体健康、万事如意! :)
+title: 周涵茉
+subtitle: 祝您身体健康、万事如意!
 date: "`r format(Sys.date(), '%d %B, %Y')`"
 series:
   - Themes Guide
