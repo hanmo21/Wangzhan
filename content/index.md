@@ -1,6 +1,6 @@
 ---
 author: 周涵茉
-title: 茉茉
+title: 周涵茉
 subtitle: 祝您身体健康、笑口常开！
 date: "`r format(Sys.date(), '%d %B, %Y')`"
 series:
