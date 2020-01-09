@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>茉茉</title>
+      <link>/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/</guid>
+      <description>洗脚 2019-12-27
+    钓鱼 2019-12-08
+    坐飞机 2019-12-08
+    还没玩够 2019-12-08
+    跟爸爸玩游戏 2019-12-08
+    开赛车 2019-12-08
+    Hello! 2019-11-16
+    数票子 2019-11-15
+    吃面条 2019-11-15
+    骑马、驾！ 2019-10-17
+    肚子饿了 2019-10-10
+    没人陪我玩 2019-10-10</description>
+    </item>
+    
+  </channel>
+</rss>
