@@ -5,10 +5,11 @@ subtitle: 祝您身体健康、笑口常开！
 date: "`r format(Sys.date(), '%d %B, %Y')`"
 series:
   - Themes Guide
-banner:
-  caption: 周涵茉
-  href: https://zhouhanmo.com
 ---
+
+# banner:
+#   caption: 周涵茉
+#   href: https://zhouhanmo.com
 
 {{< figure src="20200108-1.jpg" caption="发筷子 2020-01-08" >}}
 
