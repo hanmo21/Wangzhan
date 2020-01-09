@@ -1,7 +1,7 @@
 ---
 author: 周涵茉
 title: 茉茉
-subtitle: 祝您新年快乐、身体健康、笑口常开！:)
+subtitle: 祝您身体健康、笑口常开！:)
 date: "`r format(Sys.date(), '%d %B, %Y')`"
 series:
   - Themes Guide
@@ -10,6 +10,9 @@ banner:
   href: https://zhouhanmo.com
 ---
 
+{{< figure src="20200108-1.jpg" caption="发筷子 2020-01-08" >}}
+
+{{< figure src="20200108-2.jpg" caption="给奶奶过生日 2020-01-08" >}}
 
 {{< figure src="20191227.jpg" caption="洗脚 2019-12-27" >}}
 
