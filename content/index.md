@@ -23,7 +23,7 @@ series:
 
 {{< figure src="20191208-2.jpg" caption="跟爸爸玩游戏 2019-12-08" >}}
 
-{{< figure src="20191208-1.jpg" caption="开赛车 2019-12-08" >}}
+{{< figure src="20191208-1.jpg" caption="认真 2019-12-08" >}}
 
 {{< figure src="20191116.jpg" caption="打招呼 2019-11-16" >}}
 
@@ -51,7 +51,9 @@ series:
 
 {{< figure src="20191006-2.jpg" caption="要抱抱 2019-10-06" >}}
 
-{{< figure src="20191006-1.jpg" caption="跟爷爷玩耍 2019-10-06" >}}
+{{< figure src="20191006-1.jpg" caption="拽拽的样子 2019-10-06" >}}
+
+{{< figure src="20191005.jpg" caption="会站了 2019-10-05" >}}
 
 {{< figure src="20190813-2.jpg" caption="周岁快乐 2019-08-13" >}}
 
@@ -59,13 +61,17 @@ series:
 
 {{< figure src="20190729.jpg" caption="力大无穷 2019-07-29" >}}
 
-{{< figure src="20190705.jpg" caption="看我的牙齿 2019-07-05" >}}
+{{< figure src="20190708.jpg" caption="红孩儿 2019-07-08" >}}
 
-{{< figure src="20190701.jpg" caption="橙子好吃 2019-07-01" >}}
+{{< figure src="20190705.jpg" caption="哈哈哈 2019-07-05" >}}
+
+{{< figure src="20190701.jpg" caption="好吃 2019-07-01" >}}
 
 {{< figure src="20190620.jpg" caption="听妈妈的话 2019-06-20" >}}
 
-{{< figure src="20190604.jpg" caption="开车了 2019-06-04" >}}
+{{< figure src="20190604.jpg" caption="开车 2019-06-04" >}}
+
+{{< figure src="20190601.jpg" caption="握个手 2019-06-01" >}}
 
 {{< figure src="20190523.jpg" caption="技术高超 2019-05-23" >}}
 
