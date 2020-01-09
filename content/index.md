@@ -23,7 +23,7 @@ series:
 
 {{< figure src="20191208-2.jpg" caption="跟爸爸玩游戏 2019-12-08" >}}
 
-{{< figure src="20191208-1.jpg" caption="认真 2019-12-08" >}}
+{{< figure src="20191208-1.jpg" caption="认真的样子 2019-12-08" >}}
 
 {{< figure src="20191116.jpg" caption="打招呼 2019-11-16" >}}
 
@@ -53,13 +53,13 @@ series:
 
 {{< figure src="20191006-1.jpg" caption="拽拽的样子 2019-10-06" >}}
 
-{{< figure src="20191005.jpg" caption="会站了 2019-10-05" >}}
+{{< figure src="20191005.jpg" caption="会站立了 2019-10-05" >}}
 
 {{< figure src="20190813-2.jpg" caption="周岁快乐 2019-08-13" >}}
 
-{{< figure src="20190813-1.jpg" caption="这是什么 2019-08-13" >}}
+{{< figure src="20190813-1.jpg" caption="这是什么? 2019-08-13" >}}
 
-{{< figure src="20190729.jpg" caption="力大无穷 2019-07-29" >}}
+{{< figure src="20190729.jpg" caption="可怜的小狗 2019-07-29" >}}
 
 {{< figure src="20190708.jpg" caption="红孩儿 2019-07-08" >}}
 
@@ -73,7 +73,7 @@ series:
 
 {{< figure src="20190601.jpg" caption="握个手 2019-06-01" >}}
 
-{{< figure src="20190523.jpg" caption="技术高超 2019-05-23" >}}
+{{< figure src="20190523.jpg" caption="得意 2019-05-23" >}}
 
 {{< figure src="20190424.jpg" caption="吃饱喝足 2019-04-24" >}}
 
@@ -83,7 +83,7 @@ series:
 
 {{< figure src="20190310.jpg" caption="吃桔子 2019-03-10" >}}
 
-{{< figure src="20190306-3.jpg" caption="叽叽喳喳要说话 2019-03-06" >}}
+{{< figure src="20190306-3.jpg" caption="自言自语 2019-03-06" >}}
 
 {{< figure src="20190306-2.jpg" caption="捉迷藏 2019-03-06" >}}
 
