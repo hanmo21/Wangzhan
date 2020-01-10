@@ -27,7 +27,7 @@ series:
 
 {{< figure src="20191116.jpg" caption="打招呼 2019-11-16" >}}
 
-{{< figure src="20191115.jpg" caption="数票子 2019-11-15" >}}
+{{< figure src="20191115.jpg" caption="爷爷发工资了 2019-11-15" >}}
 
 {{< figure src="20191026.jpg" caption="吃面条 2019-11-15" >}}
 
