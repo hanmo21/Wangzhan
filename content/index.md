@@ -55,6 +55,8 @@ series:
 
 {{< figure src="20191005.jpg" caption="会站立了 2019-10-05" >}}
 
+{{< figure src="20190820.jpg" caption="美美的裙子 2019-08-20" >}}
+
 {{< figure src="20190813-2.jpg" caption="周岁快乐 2019-08-13" >}}
 
 {{< figure src="20190813-1.jpg" caption="这是什么? 2019-08-13" >}}
@@ -94,3 +96,5 @@ series:
 {{< figure src="20181228.jpg" caption="三个月大了 2018-12-28" >}}
 
 {{< figure src="20181129.jpg" caption="活蹦乱跳 2018-11-29" >}}
+
+{{< figure src="20180921.jpg" caption="出生啦! 2018-09-21" >}}
