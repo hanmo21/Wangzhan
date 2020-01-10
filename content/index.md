@@ -11,9 +11,11 @@ series:
 
 {{< figure src="20200108-2.jpg" caption="准备吃饭 2020-01-08" >}}
 
-{{< figure src="20200108-1.jpg" caption="给奶奶过生日 2020-01-08" >}}
+{{< figure src="20200108-1.jpg" caption="奶奶生日快乐! 2020-01-08" >}}
 
 {{< figure src="20191227.jpg" caption="洗脚 2019-12-27" >}}
+
+{{< figure src="20191226.jpg" caption="骑车 2019-12-26" >}}
 
 {{< figure src="20191208-5.jpg" caption="钓鱼 2019-12-08" >}}
 
@@ -23,15 +25,17 @@ series:
 
 {{< figure src="20191208-2.jpg" caption="跟爸爸玩游戏 2019-12-08" >}}
 
-{{< figure src="20191208-1.jpg" caption="认真的样子 2019-12-08" >}}
+{{< figure src="20191208-1.jpg" caption="认真开车 2019-12-08" >}}
+
+{{< figure src="20191204.jpg" caption="津津有味 2019-12-04" >}}
 
 {{< figure src="20191116.jpg" caption="打招呼 2019-11-16" >}}
 
-{{< figure src="20191115.jpg" caption="爷爷发工资了 2019-11-15" >}}
+{{< figure src="20191115.jpg" caption="爷爷发工资了! 2019-11-15" >}}
 
 {{< figure src="20191026.jpg" caption="吃面条 2019-11-15" >}}
 
-{{< figure src="20191017.jpg" caption="驾！ 2019-10-17" >}}
+{{< figure src="20191017.jpg" caption="驾! 2019-10-17" >}}
 
 {{< figure src="20191010-3.jpg" caption="肚子饿了 2019-10-10" >}}
 
@@ -55,13 +59,15 @@ series:
 
 {{< figure src="20191005.jpg" caption="会站立了 2019-10-05" >}}
 
-{{< figure src="20190820.jpg" caption="美美的裙子 2019-08-20" >}}
+{{< figure src="20190820.jpg" caption="这车不错 2019-08-20" >}}
 
 {{< figure src="20190813-2.jpg" caption="周岁快乐 2019-08-13" >}}
 
 {{< figure src="20190813-1.jpg" caption="这是什么? 2019-08-13" >}}
 
 {{< figure src="20190729.jpg" caption="可怜的小狗 2019-07-29" >}}
+
+{{< figure src="20190715.jpg" caption="爸爸的掌上明珠 2019-07-15" >}}
 
 {{< figure src="20190708.jpg" caption="红孩儿 2019-07-08" >}}
 
@@ -73,7 +79,7 @@ series:
 
 {{< figure src="20190604.jpg" caption="开车 2019-06-04" >}}
 
-{{< figure src="20190601.jpg" caption="握个手 2019-06-01" >}}
+{{< figure src="20190601.jpg" caption="握手 2019-06-01" >}}
 
 {{< figure src="20190523.jpg" caption="得意 2019-05-23" >}}
 
