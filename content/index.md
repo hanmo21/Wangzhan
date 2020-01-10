@@ -9,9 +9,9 @@ series:
 
 
 
-{{< figure src="20200108-1.jpg" caption="准备开吃 2020-01-08" >}}
+{{< figure src="20200108-2.jpg" caption="准备吃饭 2020-01-08" >}}
 
-{{< figure src="20200108-2.jpg" caption="给奶奶过生日 2020-01-08" >}}
+{{< figure src="20200108-1.jpg" caption="给奶奶过生日 2020-01-08" >}}
 
 {{< figure src="20191227.jpg" caption="洗脚 2019-12-27" >}}
 
