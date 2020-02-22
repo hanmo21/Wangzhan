@@ -109,4 +109,22 @@ series:
 
 {{< figure src="20181129.jpg" caption="活蹦乱跳 2018-11-29" >}}
 
-{{< figure src="20180921.jpg" caption="出生啦! 2018-09-21" >}}
+{{< figure src="20180921-1.jpg" caption="出生照之一 2018-09-21" >}}
+
+{{< figure src="20180921-2.jpg" caption="出生照之二 2018-09-21" >}}
+
+{{< figure src="20180921-3.jpg" caption="出生照之三 2018-09-21" >}}
+
+{{< figure src="20180921-4.jpg" caption="出生照之四 2018-09-21" >}}
+
+{{< figure src="20180921-5.jpg" caption="出生照之五 2018-09-21" >}}
+
+{{< figure src="20180921-6.jpg" caption="出生照之六 2018-09-21" >}}
+
+{{< figure src="20180921-7.jpg" caption="出生照之七 2018-09-21" >}}
+
+{{< figure src="20180921-8.jpg" caption="出生照之八 2018-09-21" >}}
+
+{{< figure src="20180921-9.jpg" caption="出生照之九 2018-09-21" >}}
+
+{{< figure src="20180921-10.jpg" caption="出生照之十 2018-09-21" >}}
