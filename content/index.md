@@ -13,6 +13,8 @@ series:
 
 {{< figure src="20200220.jpg" caption="睡得真香 2020-02-20" >}}
 
+{{< figure src="20200205.jpg" caption="手舞足蹈 2020-02-05" >}}
+
 {{< figure src="20200108-2.jpg" caption="准备吃饭 2020-01-08" >}}
 
 {{< figure src="20200108-1.jpg" caption="奶奶生日快乐! 2020-01-08" >}}
