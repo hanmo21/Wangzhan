@@ -7,7 +7,11 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20200222.jpg" caption="外婆买的美美鞋子" >}}
 
+{{< figure src="20200221.jpg" caption="奶奶喂饭吃" >}}
+
+{{< figure src="20200220.jpg" caption="睡得真香" >}}
 
 {{< figure src="20200108-2.jpg" caption="准备吃饭 2020-01-08" >}}
 
