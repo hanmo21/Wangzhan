@@ -7,7 +7,7 @@ series:
   - Themes Guide
 ---
 
-{{< figure src="20200306.jpg" caption="会开拖拉机了 2020-03-06" >}}
+{{< figure src="20200306.jpg" caption="开拖拉机兜风 2020-03-06" >}}
 
 {{< figure src="20200222.jpg" caption="外婆买的美美鞋子 2020-02-22" >}}
 
