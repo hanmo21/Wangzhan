@@ -7,6 +7,8 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20200424.jpg" caption="小公主 2020-04-24" >}}
+
 {{< figure src="20200328.jpg" caption="亭亭玉立 2020-03-28" >}}
 
 {{< figure src="20200306.jpg" caption="开拖拉机兜风 2020-03-06" >}}
