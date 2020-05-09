@@ -7,6 +7,8 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20200509-3.jpg" caption="小兔子乖乖 2020-05-09" >}}
+
 {{< figure src="20200509-2.jpg" caption="玉米真香 2020-05-09" >}}
 
 {{< figure src="20200509-1.jpg" caption="还是爸爸的车好玩 2020-05-09" >}}
