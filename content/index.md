@@ -7,6 +7,10 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20200510-2.jpg" caption="吃面包 2020-05-10" >}}
+
+{{< figure src="20200510-1.jpg" caption="抓鱼 2020-05-10" >}}
+
 {{< figure src="20200509-3.jpg" caption="小兔子乖乖 2020-05-09" >}}
 
 {{< figure src="20200509-2.jpg" caption="玉米真香 2020-05-09" >}}
