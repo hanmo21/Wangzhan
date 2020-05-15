@@ -119,7 +119,7 @@ series:
 
 {{< figure src="20190306-1.jpg" caption="白里透红 2019-03-06" >}}
 
-{{< figure src="20190119.jpg" caption="给奶奶过生日 2019-01-19" >}}
+{{< figure src="20190119.jpg" caption="奶奶过生日 2019-01-19" >}}
 
 {{< figure src="20181228.jpg" caption="三个月大了 2018-12-28" >}}
 
