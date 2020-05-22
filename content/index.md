@@ -7,6 +7,16 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20200522-5.jpg" caption="准备睡觉 2020-05-22" >}}
+
+{{< figure src="20200522-4.jpg" caption="那是什么 2020-05-22" >}}
+
+{{< figure src="20200522-3.jpg" caption="保护小鸭 2020-05-22" >}}
+
+{{< figure src="20200522-2.jpg" caption="好长的手 2020-05-22" >}}
+
+{{< figure src="20200522-1.jpg" caption="我要那个 2020-05-22" >}}
+
 {{< figure src="20200510-2.jpg" caption="吃面包 2020-05-10" >}}
 
 {{< figure src="20200510-1.jpg" caption="抓鱼 2020-05-10" >}}
