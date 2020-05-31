@@ -7,6 +7,12 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20200601-1.jpg" caption="儿童节快乐！ 2020-06-01" >}}
+
+{{< figure src="20200601-2.jpg" caption="坐上小火车 2020-06-01" >}}
+
+{{< figure src="20200601-3.jpg" caption="骑木马 2020-06-01" >}}
+
 {{< figure src="20200522-5.jpg" caption="准备睡觉 2020-05-22" >}}
 
 {{< figure src="20200522-4.jpg" caption="那是什么 2020-05-22" >}}
