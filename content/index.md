@@ -7,6 +7,8 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20200626.jpg" caption="自得其乐 2020-06-26" >}}
+
 {{< figure src="20200601-3.jpg" caption="儿童节快乐！ 2020-06-01" >}}
 
 {{< figure src="20200601-2.jpg" caption="坐上小火车 2020-06-01" >}}
