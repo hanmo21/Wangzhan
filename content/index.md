@@ -6,7 +6,7 @@ date: "`r format(Sys.date(), '%d %B, %Y')`"
 series:
   - Themes Guide
 ---
-{{< figure src="20200810.jpg" caption="坐马马 2020-08-10" >}}
+{{< figure src="20200810.jpg" caption="跟爸爸一起过早 2020-08-10" >}}
 
 {{< figure src="20200704.jpg" caption="坐马马 2020-07-04" >}}
 
