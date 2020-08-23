@@ -165,5 +165,3 @@ series:
 {{< figure src="20180921-9.jpg" caption="出生照之九 2018-09-21" >}}
 
 {{< figure src="20180921-10.jpg" caption="出生照之十 2018-09-21" >}}
-
-New stuff!
