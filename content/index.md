@@ -7,6 +7,10 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20201213-2.jpg" caption="爱学习的娃 2020-12-13" >}}
+
+{{< figure src="20201213-1.jpg" caption="小美女 2020-12-13" >}}
+
 {{< figure src="20200928.jpg" caption="满两岁啦! 2020-09-28" >}}
 
 {{< figure src="20200810.jpg" caption="跟爸爸一起过早 2020-08-10" >}}
