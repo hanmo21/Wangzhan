@@ -11,11 +11,21 @@ series:
 
 {{< figure src="20201221-1.jpg" caption="三朵金花 2020-12-21" >}}
 
+{{< figure src="20201220.jpg" caption="游泳 2020-12-20" >}}
+
+{{< figure src="20201217.jpg" caption="打电动 2020-12-17" >}}
+
 {{< figure src="20201213-2.jpg" caption="爱学习的娃 2020-12-13" >}}
 
 {{< figure src="20201213-1.jpg" caption="小美女 2020-12-13" >}}
 
-{{< figure src="20201210.jpg" caption="好好吃的热干面 2020-12-10" >}}
+{{< figure src="20201213.jpg" caption="女儿美不美 2020-12-13" >}}
+
+{{< figure src="20201107.jpg" caption="胃口不错 2020-11-07" >}}
+
+{{< figure src="20201210.jpg" caption="好吃的热干面 2020-12-10" >}}
+
+{{< figure src="20201009.jpg" caption="会骑车了！ 2020-10-09" >}}
 
 {{< figure src="20200928.jpg" caption="满两岁啦! 2020-09-28" >}}
 
