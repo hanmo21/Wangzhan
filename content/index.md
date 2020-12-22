@@ -7,6 +7,10 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20201221-2.jpg" caption="满不在乎 2020-12-21" >}}
+
+{{< figure src="20201221-1.jpg" caption="三朵金花 2020-12-21" >}}
+
 {{< figure src="20201213-2.jpg" caption="爱学习的娃 2020-12-13" >}}
 
 {{< figure src="20201213-1.jpg" caption="小美女 2020-12-13" >}}
