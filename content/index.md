@@ -7,6 +7,14 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20201231.jpg" caption="给自己洗脸 2020-12-31" >}}
+
+{{< figure src="20201230.jpg" caption="滑板车 2020-12-30" >}}
+
+{{< figure src="20201229.jpg" caption="小司机 2020-12-29" >}}
+
+{{< figure src="20201228.jpg" caption="吹泡泡 2020-12-28" >}}
+
 {{< figure src="20201221-2.jpg" caption="满不在乎 2020-12-21" >}}
 
 {{< figure src="20201221-1.jpg" caption="三朵金花 2020-12-21" >}}
