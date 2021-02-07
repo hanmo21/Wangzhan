@@ -7,7 +7,9 @@ series:
   - Themes Guide
 ---
 
-{{< figure src="20210207-2.jpg" caption="坐上小火车 2021-02-07" >}}
+{{< figure src="20210207-3.jpg" caption="吃饭 2021-02-07" >}}
+
+{{< figure src="20210207-2.jpg" caption="小火车 2021-02-07" >}}
 
 {{< figure src="20210207-1.jpg" caption="高兴 2021-02-07" >}}
 
