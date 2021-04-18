@@ -7,6 +7,8 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20210416.jpg" caption="耶! 2021-04-16" >}}
+
 {{< figure src="20210403.jpg" caption="耶! 2021-04-03" >}}
 
 {{< figure src="20210306.jpg" caption="懒洋洋 2021-03-06" >}}
