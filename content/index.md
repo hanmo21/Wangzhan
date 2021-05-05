@@ -7,6 +7,14 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20210505-4.jpg" caption="骑在爸爸头上 2021-05-05" >}}
+
+{{< figure src="20210505-3.jpg" caption="还是够不着 2021-05-05" >}}
+
+{{< figure src="20210505-2.jpg" caption="出门玩耍 2021-05-05" >}}
+
+{{< figure src="20210505-1.jpg" caption="天气不错 2021-05-05" >}}
+
 {{< figure src="20210503.jpg" caption="憨笑 2021-05-03" >}}
 
 {{< figure src="20210430.jpg" caption="魔法棒 2021-04-30" >}}
@@ -224,3 +232,4 @@ series:
 {{< figure src="20180921-9.jpg" caption="出生照之九 2018-09-21" >}}
 
 {{< figure src="20180921-10.jpg" caption="出生照之十 2018-09-21" >}}
+
