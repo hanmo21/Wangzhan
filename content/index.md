@@ -7,6 +7,8 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20210506.jpg" caption="小美女 2021-05-06" >}}
+
 {{< figure src="20210505-4.jpg" caption="骑在爸爸头上 2021-05-05" >}}
 
 {{< figure src="20210505-3.jpg" caption="还是够不着 2021-05-05" >}}
