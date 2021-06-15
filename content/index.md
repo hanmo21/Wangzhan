@@ -7,6 +7,8 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20210615.jpg" caption="划船 2021-06-15" >}}
+
 {{< figure src="20210507.jpg" caption="穿上美衣裳 2021-05-07" >}}
 
 {{< figure src="20210506.jpg" caption="小美女 2021-05-06" >}}
