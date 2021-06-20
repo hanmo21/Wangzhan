@@ -7,6 +7,12 @@ series:
   - Themes Guide
 ---
 
+{{< figure src="20210620-1.jpg" caption="擂鼓 2021-06-20" >}}
+
+{{< figure src="20210620-2.jpg" caption="跟妈妈玩耍 2021-06-20" >}}
+
+{{< figure src="20210620-3.jpg" caption="跟妈妈玩耍 2021-06-20" >}}
+
 {{< figure src="20210615.jpg" caption="划船 2021-06-15" >}}
 
 {{< figure src="20210507.jpg" caption="穿上美衣裳 2021-05-07" >}}
